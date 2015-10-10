@@ -1,2 +1,2 @@
 # HangMan
-A Hangman English game written by Pascal
+Hangman English game written by Pascal
